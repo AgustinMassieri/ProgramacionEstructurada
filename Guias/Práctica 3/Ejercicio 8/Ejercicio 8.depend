@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557751165 source:c:\users\agmas\documents\programación estructurada\práctica 3\ejercicio 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
